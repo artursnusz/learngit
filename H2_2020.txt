@@ -1,0 +1,68 @@
+The objectives are fully met:
+- Very good quality of delivered solution:
+
+Solutions delivered in H2 for Platform:
+1.For clone process
+- clone documentation updated + new script added in order to avoid manual work after the clone
+before the clone (DATA COMPLIANCE).
+2. 
+3. Limit XLSX exports - functionality to prevent export more than 50k records to xlsx format
+4. One click deployment export for deployment automation application - allows export mutliple tables to one XML file:
+5. NY skipped records reviewed and assigned to products for processing
+6. Peformance improvement analysis
+
+Solutions delivered in H2 for SACM:
+- Ci Security Compliance application - the app allows to store information relaated to security exception into CMDB, transfer exceptions information from 3rd party tool GCE via SOAP, 
+presernt exceptions information in UI
+
+
+#####################
+The objectives are fully met.
+All rules were followed according to the objective description
+List of fixed incidents:
+
+INC011400539	 
+INC011258685 
+INC011088235
+INC010462488
+
+
+#####################
+The objectives are fully met.
+All rules were followed according to the objective description
+List of fixed defects:
+
+ASN-19475 - ApplicationChecker: CheckerScript cannot be selected on CheckerRules
+#####################
+Achievements:
+
+Application Checker rules  = code quality
+LImit Xlx import = performance
+Solid clone documentation + post clone script = clone 
+
+######################
+The objectives are fully met
+Doc kept up to date
+
+######################
+2 improvement implemented:
+ - application checker - created for the purpose of checking if the applications created via studio are being developed according to ServiceNow best practices.Every time an app is published, all app records are validated automatically against SN best practices  - better quality of development
+
+- the release tracker fields have been added for the retrieved\remote update set table -   this functionality has been created to avoid a lot of manual work after clone back from PROD over sub prod instances and problems for reporting purposes 
+
+######################
+The objectives are fully met
+Handover session to ops done every sprint.
+Support given for other products ( eg SRM Global, SACM, ITSM, Event MGMT)
+
+######################
+The objectives are fully met
+All rules were followed according to the objective description
+
+######################
+I have positive attitude and I am fully accountable for the delivered solutions.
+
+Using best practices for implementation provided by ServiceNow - Sometimes brain storming with other team members to find out the best solution,  never says "no" and able to handle all complex topics. 
+Always up to date with the new features provided by ServiceNow
+
+
